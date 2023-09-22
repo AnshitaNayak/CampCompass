@@ -1,4 +1,3 @@
-
 # CampCompass
 
 [CampCompass]( https://fine-yak-trunks.cyclic.app/) is a CRUD-based Full-Stack application  where users can create, edit, delete and review campgrounds. In order to review or create a campground, you must have an account. This project is a part of Colt Steele's web dev bootcamp course on udemy.
@@ -93,10 +92,9 @@ To see my Web Application please do visit  https://fine-yak-trunks.cyclic.app/
 **Single Campground ShowPage**
 ![App Screenshot](https://user-images.githubusercontent.com/51289274/113733465-1e66e080-9718-11eb-9ffe-8b047640942a.png)
 
-**Register & Login Page**
-![App Screenshot](https://user-images.githubusercontent.com/51289274/113734300-d8f6e300-9718-11eb-801e-5cb4698a1560.png)
+**Login Page**
+![App Screenshot](https://user-images.githubusercontent.com/112317164/269520988-9d4af8df-4a42-46a7-8240-19599cee457b.png)
 ## Authors
 
 - [kanhabindal](https://github.com/kanhabindal)
 - [shubhikodes](https://github.com/shubhikodes)
-
